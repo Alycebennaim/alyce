@@ -1,0 +1,88 @@
+/*body {*/
+/*    background-color: black;*/
+/*}*/
+/* #jess h1{*/
+/*    color:white;*/
+/*    background-color:green;*/
+/*     font-family: 'Fugaz One', cursive;*/
+/*}*/
+/*#jess h2{*/
+/*    color: yellow;*/
+    
+/*     font-family: 'Fugaz One', cursive;*/
+/*}*/
+/*#jess h3{*/
+/*    color:purple;*/
+/*     font-family: 'Fugaz One', cursive;*/
+/*}*/
+/*body{*/
+/*background-color : grey;*/
+/*}*/
+
+/*#jess p {*/
+/*    color: red;*/
+/*    font-family: 'Fugaz One', cursive;*/
+/*}*/
+
+/*#shawn h1{*/
+/*    color: white;*/
+/*     font-family: 'Fugaz One', cursive;*/
+/*}*/
+/*#shawn h2{*/
+/*    color: pink;*/
+/*     font-family: 'Fugaz One', cursive;*/
+/*}*/
+/*#shawn h3{*/
+/*    color: green;*/
+/*     font-family: 'Fugaz One', cursive;*/
+/*}*/
+/*#shawn p {*/
+/*    color: brown;*/
+/*     font-family: 'Fugaz One', cursive;*/
+/*}*/
+
+/*#jon h1{*/
+/*    color: yellow;*/
+/*     font-family: 'Fugaz One', cursive;*/
+/*}*/
+/*#jon h2{*/
+/*    color: blue;*/
+/*     font-family: 'Fugaz One', cursive;*/
+/*}*/
+/*#jon h3{*/
+/*    color: orange;*/
+/*     font-family: 'Fugaz One', cursive;*/
+/*}*/
+/*#jon p {*/
+/*    color: purple;*/
+/*       font-family: 'Fugaz One', cursive;*/
+/*}*/
+/*#selena h1{*/
+/*    color: yellow;*/
+/*       font-family: 'Fugaz One', cursive; */
+/*}*/
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+    
+p {
+    color: yellow;
+}
+
+h2 {
+    color: pink;
+}
+
+h3 {
+    color: red;
+}
+
+li {
+    color: red;
+}
